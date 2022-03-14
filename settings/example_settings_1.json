@@ -1,0 +1,41 @@
+{
+    "number_of_rotors": 8,
+    "first_rotor_swaps": "BG CW DU EF KV LM OX PR",
+    "reverse_rotor_swaps": "AS BN CX DT EG FQ HW IJ KU LZ MR OY PV",
+    "order": "1 8 4 3 6 5 2 7",
+    "initial_code": "AQRBAIUV",
+    "rotors": {
+        "1": {
+            "letter_order": "KBTVQPFYWLIXNAEJHOZMUGRCDS",
+            "additional_rotation": "D"
+        },
+        "2": {
+            "letter_order": "UCGTHYWJQMEPZLAFRSXKBVDONI",
+            "additional_rotation": "R"
+        },
+        "3": {
+            "letter_order": "WLEYIQROJATBZUKHSXCMVFPGDN",
+            "additional_rotation": "J"
+        },
+        "4": {
+            "letter_order": "MBJZTPWDEAGVCKNOSFQYLUHIXR",
+            "additional_rotation": "G"
+        },
+        "5": {
+            "letter_order": "SXTKDUZJNWGVRYHLMCFPIAEOQB",
+            "additional_rotation": "K"
+        },
+        "6": {
+            "letter_order": "OYMUVTLCGFDQEPXKIRNZJAWBSH",
+            "additional_rotation": "T"
+        },
+        "7": {
+            "letter_order": "BDFUKAHMOITQNLYZERPCWSVGXJ",
+            "additional_rotation": "U"
+        },
+        "8": {
+            "letter_order": "IBTFGDEQSCAURWYZXLMPVHJKNO",
+            "additional_rotation": "D"
+        }
+    }
+}

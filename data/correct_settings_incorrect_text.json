@@ -1,0 +1,50 @@
+{
+    "number_of_rotors": 10,
+    "first_rotor_swaps": "AM CD FT JL NX RV SY UW\n",
+    "reverse_rotor_swaps": "AW BN CQ DL EZ FU GJ HS IM KT OP RX VY\n",
+    "order": "1 9 3 2 8 6 10 5 4 7",
+    "initial_code": "AWVBFVRWBH",
+    "rotors": {
+        "1": {
+            "letter_order": "CIPHJLEQFSRMAOTDZNYXKWVGUB",
+            "additional_rotation": "W"
+        },
+        "2": {
+            "letter_order": "NAWTIGHPZOFXJSCKEBQRVULDMY",
+            "additional_rotation": "R"
+        },
+        "3": {
+            "letter_order": "VJSEWOCLFRGDNAZUXHIYQBTKMP",
+            "additional_rotation": "L"
+        },
+        "4": {
+            "letter_order": "UHQTWIVMXBFLDEGZROSCAKYNJP",
+            "additional_rotation": "S"
+        },
+        "5": {
+            "letter_order": "UIMJNQWETYHCOLZVBXGFKDRPAS",
+            "additional_rotation": "X"
+        },
+        "6": {
+            "letter_order": "PMJGNQHEXWRIKSCLUDVTZOYBAF",
+            "additional_rotation": "N"
+        },
+        "7": {
+            "letter_order": "FBRAKVEDMUGYJWCNLQIOPHZTSX",
+            "additional_rotation": "W"
+        },
+        "8": {
+            "letter_order": "XNIVFEZCRQAMUGKLBWHTJYODSP",
+            "additional_rotation": "F"
+        },
+        "9": {
+            "letter_order": "ZPTSCUNHAWQMXEKFGBJVIYLROD",
+            "additional_rotation": "I"
+        },
+        "10": {
+            "letter_order": "PTFRWGDUJQILBZCXESONMHYKAV",
+            "additional_rotation": "W"
+        }
+    },
+    "text": "NIEOPRAWNNY( TEKST*%"
+}

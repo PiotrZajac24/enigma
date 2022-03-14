@@ -1,0 +1,29 @@
+{
+    "number_of_rotors": 5,
+    "first_rotor_swaps": "BX CO EP FV GM JT KQ UY\n",
+    "reverse_rotor_swaps": "AH BY CL DW EV FQ GO IR JK MX NP ST UZ\n",
+    "order": "3 1 2 5 4",
+    "initial_code": "WQWPY",
+    "rotors": {
+        "1": {
+            "letter_order": "CEAPRBJNFXKZDQIYWMSLHUVGT",
+            "additional_rotation": "E"
+        },
+        "2": {
+            "letter_order": "ATJBZUYVCNFXDQPWRMOGLISHKE",
+            "additional_rotation": "T"
+        },
+        "3": {
+            "letter_order": "SDNBIKQHWMEOLUAGXRTYJCZPFV",
+            "additional_rotation": "W"
+        },
+        "4": {
+            "letter_order": "XFQZSJPTWIHUNAGERKYCDBOVLM",
+            "additional_rotation": "F"
+        },
+        "5": {
+            "letter_order": "UOLDMYVHZKXSPRJGENWQFCTIBA",
+            "additional_rotation": "L"
+        }
+    }
+}

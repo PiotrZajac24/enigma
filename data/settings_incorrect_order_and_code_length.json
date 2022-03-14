@@ -1,0 +1,25 @@
+{
+    "number_of_rotors": 4,
+    "first_rotor_swaps": "BH CO DG ET FX JU LN VW",
+    "reverse_rotor_swaps": "AY BI CQ DH EX FJ GM KZ LV NW OR PU ST",
+    "order": "3 1 4 2",
+    "initial_code": "VVG",
+    "rotors": {
+        "1": {
+            "letter_order": "GJEWSDNBPVXMRFKOHUZICYTALQ",
+            "additional_rotation": "R"
+        },
+        "2": {
+            "letter_order": "ZIBTYMOPGALXRFQWSNUDECJKHV",
+            "additional_rotation": "P"
+        },
+        "3": {
+            "letter_order": "IQAPJCFNLWDVMXTUHBZGKESOYR",
+            "additional_rotation": "E"
+        },
+        "4": {
+            "letter_order": "RTGNOIMPAYEKQCXHBJUZFSDWVL",
+            "additional_rotation": "I"
+        }
+    }
+}

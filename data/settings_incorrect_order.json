@@ -1,0 +1,26 @@
+{
+    "number_of_rotors": 5,
+    "first_rotor_swaps": "CV FO GU HR IM KT PS QZ\n",
+    "reverse_rotor_swaps": "AM BR CN DO EJ FG HS IK LP QX TU VW YZ\n",
+    "order": "5 3 1 2",
+    "initial_code": "AOOS",
+    "rotors": {
+        "1": {
+            "letter_order": "XJGBPVTZEIFYKLSDOHMWURQNCA",
+            "additional_rotation": "A"
+        },
+        "2": {
+            "letter_order": "HFVAUJTXZSEPWDMINGRYQBOLKC",
+            "additional_rotation": "J"
+        },
+        "3": {
+            "letter_order": "KAUDWNHVGCITBSLQRXPJOMEZYF",
+            "additional_rotation": "D"
+        },
+        "4": {
+            "letter_order": "CMHRYPNEATZJDSKXIGULQWFVOB",
+            "additional_rotation": "G"
+        }
+    },
+    "text": "Projekt# z PIPR"
+}

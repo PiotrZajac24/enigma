@@ -1,0 +1,33 @@
+{
+    "number_of_rotors": 6,
+    "first_rotor_swaps": "AX BZ DN FL GK JY PQ VW",
+    "reverse_rotor_swaps": "AZ BT CM DU ER FL GO HI JP KS NX QV WY",
+    "order": "3 5 6 1 5 2",
+    "initial_code": "TKQBBD",
+    "rotors": {
+        "1": {
+            "letter_order": "ATSRCHYELWKBDMNPZXJGQOIUVF",
+            "additional_rotation": "A"
+        },
+        "2": {
+            "letter_order": "ECMXSKYURLAOZQTJNIBGFDWVPH",
+            "additional_rotation": "R"
+        },
+        "3": {
+            "letter_order": "PKGLTZCBVUQHMWJSONXIEFDYRA",
+            "additional_rotation": "X"
+        },
+        "4": {
+            "letter_order": "SHNKQPZETMYJXRBFUAWCLDIVOG",
+            "additional_rotation": "M"
+        },
+        "5": {
+            "letter_order": "WLVSFEJGXDPINAHCTYQBMORKUZ",
+            "additional_rotation": "R"
+        },
+        "6": {
+            "letter_order": "HTKJISWRZGEAYLDXFCNOBPUVQM",
+            "additional_rotation": "B"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "number_of_rotors": 15,
+    "first_rotor_swaps": "BP CT DX EK LN MQ OZ SY",
+    "reverse_rotor_swaps": "AI BH CR DK EZ FM GJ LP NS OX QW TU VY",
+    "order": "13 3 5 10 7 1 8 2 12 9 11 15 14 6 4",
+    "initial_code": "TUSLMDNWKDBJMIQ",
+    "rotors": {
+        "1": {
+            "letter_order": "VFHQTYGNKMZLOJPCWXIEUSARBD",
+            "additional_rotation": "M"
+        },
+        "2": {
+            "letter_order": "PTNLCJIBREKHVQDFZGMAUOXSWY",
+            "additional_rotation": "K"
+        },
+        "3": {
+            "letter_order": "ECQMHVRZGPIWSXYLUDOAKFTNBJ",
+            "additional_rotation": "W"
+        },
+        "4": {
+            "letter_order": "OTUSBIMDLQEZXRVWJPKAHGFNYC",
+            "additional_rotation": "L"
+        },
+        "5": {
+            "letter_order": "YFEWIQDCNGUAZVLPMHSJOTKXBR",
+            "additional_rotation": "G"
+        },
+        "6": {
+            "letter_order": "QKMLDOHIYCEBAJPGVNUFSZRWXT",
+            "additional_rotation": "Y"
+        },
+        "7": {
+            "letter_order": "HNCAOWLTMDXKEVPIGUSFZJYBQR",
+            "additional_rotation": "R"
+        },
+        "8": {
+            "letter_order": "AFUEWTZYVNPMSCOXHKIQJDGLBR",
+            "additional_rotation": "I"
+        },
+        "9": {
+            "letter_order": "RGSPITDMABYHVOQLWJFCEXZKNU",
+            "additional_rotation": "X"
+        },
+        "10": {
+            "letter_order": "IGUTZONPESAXQJHFYRMBVKWCDL",
+            "additional_rotation": "T"
+        },
+        "11": {
+            "letter_order": "FDWPECXNLIBJKYHRGOTMZVQSUA",
+            "additional_rotation": "L"
+        },
+        "12": {
+            "letter_order": "DLNHPARBSMFOJUZCIVYTEWKQGX",
+            "additional_rotation": "Q"
+        },
+        "13": {
+            "letter_order": "OAELYNDSVWMGXRBFQHJKPUCITZ",
+            "additional_rotation": "M"
+        },
+        "14": {
+            "letter_order": "MIVPHEZBFRAGLTYJDXWCKSUQON",
+            "additional_rotation": "A"
+        },
+        "15": {
+            "letter_order": "DVMGFNZKAWTYIJRHEXQSCOBLUP",
+            "additional_rotation": "V"
+        }
+    },
+    "text": "ROTCNXL H SCLJ"
+}

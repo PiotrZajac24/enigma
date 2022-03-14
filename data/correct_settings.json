@@ -1,0 +1,409 @@
+{
+    "number_of_rotors": 100,
+    "first_rotor_swaps": "AF BV CZ EX GH IS PW UY",
+    "reverse_rotor_swaps": "AI BR CN DK EZ FY GU HM JV LS OQ PX TW",
+    "order": "86 79 58 60 88 35 2 81 19 8 20 66 21 24 57 61 77 94 76 3 85 28 25 49 12 31 87 95 50 98 72 13 37 71 27 6 63 93 32 26 47 65 9 18 7 89 39 45 17 62 52 64 30 38 97 11 46 73 74 23 22 55 44 83 53 40 33 92 90 36 59 5 14 84 68 56 42 48 67 41 10 75 34 100 80 4 15 16 78 91 69 29 82 99 43 96 54 1 70 51",
+    "initial_code": "IQQVTGJEKOSUKQOGFONZCBENQNBQLSLQMXWCSTJNMRBBTDTEJAXAHABQWXLXCQKRNARASZBWIEZJOIPYCZUPBKRKUWGLRPKRPSJP",
+    "rotors": {
+        "1": {
+            "letter_order": "WNYUQMKHJTZEPSGDXLAOFICRBV",
+            "additional_rotation": "Q"
+        },
+        "2": {
+            "letter_order": "HROIQKBDMJXFCLYZAUNEPVSWTG",
+            "additional_rotation": "I"
+        },
+        "3": {
+            "letter_order": "FMVCYKOHGBXPSLRNUAZQDIJETW",
+            "additional_rotation": "X"
+        },
+        "4": {
+            "letter_order": "ONFHCQRPZXTAKDBJSMUYLIWVEG",
+            "additional_rotation": "G"
+        },
+        "5": {
+            "letter_order": "IAUKMRSDOXCBLQGJYZPTNEWFHV",
+            "additional_rotation": "R"
+        },
+        "6": {
+            "letter_order": "KGZCPIUDYXJLFWVNHBSRETQOMA",
+            "additional_rotation": "J"
+        },
+        "7": {
+            "letter_order": "FBNSIZRXQMOYKJEAWCLVPGTDHU",
+            "additional_rotation": "F"
+        },
+        "8": {
+            "letter_order": "GKZEOSCMDINJBXVQFPTWLAYUHR",
+            "additional_rotation": "G"
+        },
+        "9": {
+            "letter_order": "IULMVBXTJQZESFRHYDAGKPCWNO",
+            "additional_rotation": "O"
+        },
+        "10": {
+            "letter_order": "AKCFSIJZRWNPHXBYDQTUOVGEML",
+            "additional_rotation": "S"
+        },
+        "11": {
+            "letter_order": "OSWEQFYDLXGMVBIZTRJPNAUCHK",
+            "additional_rotation": "S"
+        },
+        "12": {
+            "letter_order": "QSTLEOCUFAYBZDPWMGNRJIHVKX",
+            "additional_rotation": "V"
+        },
+        "13": {
+            "letter_order": "MKGOCSHWXRAPIEBZVJFUYLTNQD",
+            "additional_rotation": "E"
+        },
+        "14": {
+            "letter_order": "HTCKJNUFQROMZIWPDXLVESABYG",
+            "additional_rotation": "H"
+        },
+        "15": {
+            "letter_order": "CAULTVIFJHZXSOKPEYWBDNGQRM",
+            "additional_rotation": "T"
+        },
+        "16": {
+            "letter_order": "JUVYRDFEWXSCOHKLGPTNBAIMZQ",
+            "additional_rotation": "P"
+        },
+        "17": {
+            "letter_order": "PEUAZKCLDWTVQGFBXSOJIYNMHR",
+            "additional_rotation": "B"
+        },
+        "18": {
+            "letter_order": "WEVPFOSHIUAQDJBGKXCRLTYMZN",
+            "additional_rotation": "I"
+        },
+        "19": {
+            "letter_order": "XOKQTVIRYMBHJDZLAEUSNWGPFC",
+            "additional_rotation": "Y"
+        },
+        "20": {
+            "letter_order": "UYTPXWFIQJLGZDBKEARMHCNOSV",
+            "additional_rotation": "N"
+        },
+        "21": {
+            "letter_order": "PSUOTALMKDNFWEGQBJCZVIYRXH",
+            "additional_rotation": "R"
+        },
+        "22": {
+            "letter_order": "IQBRDZMOCGEXTKAYWJUSFVNLPH",
+            "additional_rotation": "F"
+        },
+        "23": {
+            "letter_order": "SZNHOWUCDTFPLVYAIQBJMXREGK",
+            "additional_rotation": "Z"
+        },
+        "24": {
+            "letter_order": "TCXWPUDZEYASKILVHORGNBJQMF",
+            "additional_rotation": "Q"
+        },
+        "25": {
+            "letter_order": "TZEGNRFHYPVWOSQMIADCJXBUKL",
+            "additional_rotation": "T"
+        },
+        "26": {
+            "letter_order": "SLFJBMPDWCIGTVAONHZUEQXRYK",
+            "additional_rotation": "H"
+        },
+        "27": {
+            "letter_order": "LFKRJSAGTZVOPHDEIXUCQBWYMN",
+            "additional_rotation": "J"
+        },
+        "28": {
+            "letter_order": "SGDTZMIFPUKWQHXOVANEYLCRJB",
+            "additional_rotation": "E"
+        },
+        "29": {
+            "letter_order": "NUHJCMOTBVKFWASPDXERILQYZG",
+            "additional_rotation": "Q"
+        },
+        "30": {
+            "letter_order": "TFUNMXOJHKGZBQSAVIDLCWREPY",
+            "additional_rotation": "A"
+        },
+        "31": {
+            "letter_order": "KHNLAMZSPFQVRBGIEOCDJWUTXY",
+            "additional_rotation": "J"
+        },
+        "32": {
+            "letter_order": "NUWBSJKDORXPYIGMQTEALVCHZF",
+            "additional_rotation": "D"
+        },
+        "33": {
+            "letter_order": "HSGLJCIEWUXPOAQMTDNFZKVYBR",
+            "additional_rotation": "O"
+        },
+        "34": {
+            "letter_order": "VHRTNMFGQZYABOEWCIPDUSJKLX",
+            "additional_rotation": "O"
+        },
+        "35": {
+            "letter_order": "ZQSOYDGHJNUAVFTPRXBIMCWEKL",
+            "additional_rotation": "Q"
+        },
+        "36": {
+            "letter_order": "YACNPUMEGOVIRBTQJHLWSKXFZD",
+            "additional_rotation": "M"
+        },
+        "37": {
+            "letter_order": "XVUEJPFSZLQBOWRYHMDTANIKGC",
+            "additional_rotation": "D"
+        },
+        "38": {
+            "letter_order": "YXBIWCTKQMJLZOAREVFHUGNPDS",
+            "additional_rotation": "J"
+        },
+        "39": {
+            "letter_order": "FISXLWJZKHNDOTQYPURGEACBVM",
+            "additional_rotation": "Q"
+        },
+        "40": {
+            "letter_order": "CNJKDPLWMXYRVAFHIZOQGUTSBE",
+            "additional_rotation": "R"
+        },
+        "41": {
+            "letter_order": "ZRSBNVMWTFKQGAXYUILJPDHCEO",
+            "additional_rotation": "D"
+        },
+        "42": {
+            "letter_order": "KFVRBNPDUYTHEOCJISALZMQWGX",
+            "additional_rotation": "W"
+        },
+        "43": {
+            "letter_order": "VDSZATCXOBWENMYPQIKRHLUGFJ",
+            "additional_rotation": "F"
+        },
+        "44": {
+            "letter_order": "ZSIBVEHQRTKJOMYLFNDWPXCUAG",
+            "additional_rotation": "U"
+        },
+        "45": {
+            "letter_order": "JTCDMLFQAOUKWSBNGHYPRVXEZI",
+            "additional_rotation": "H"
+        },
+        "46": {
+            "letter_order": "VPLOZKIWMXUQENJAYHBTFSCRDG",
+            "additional_rotation": "K"
+        },
+        "47": {
+            "letter_order": "ULWPIYNJOASFMRDQKTGZHCBXEV",
+            "additional_rotation": "K"
+        },
+        "48": {
+            "letter_order": "PDCQNIFKSEAZLWJYMTRVGOXHBU",
+            "additional_rotation": "T"
+        },
+        "49": {
+            "letter_order": "AVJIFQONPCLMSURDGZHBEKYWXT",
+            "additional_rotation": "H"
+        },
+        "50": {
+            "letter_order": "WETSRGCOLADMIBJXHVKNYQFZPU",
+            "additional_rotation": "N"
+        },
+        "51": {
+            "letter_order": "KCYSIMJLNVZXWTBADPUGHEOFRQ",
+            "additional_rotation": "H"
+        },
+        "52": {
+            "letter_order": "TADEYILZXCKWQMPHNVBSROFJUG",
+            "additional_rotation": "L"
+        },
+        "53": {
+            "letter_order": "AOGWSMVTKZJILCBDPNHYEQFXUR",
+            "additional_rotation": "B"
+        },
+        "54": {
+            "letter_order": "ESXJRYIBQLCWUPKFTVHMAZDGNO",
+            "additional_rotation": "B"
+        },
+        "55": {
+            "letter_order": "CIXZQGEFNKUWSVPAMRHTBLJOYD",
+            "additional_rotation": "E"
+        },
+        "56": {
+            "letter_order": "YXFTJQVKHEZNAUWRILGBSMDCPO",
+            "additional_rotation": "F"
+        },
+        "57": {
+            "letter_order": "MDECIFKOLUVGPSQAJBRWYNZXHT",
+            "additional_rotation": "P"
+        },
+        "58": {
+            "letter_order": "BTZCPUDNLMQOSEVJWIXYGFAKHR",
+            "additional_rotation": "U"
+        },
+        "59": {
+            "letter_order": "TKZXDSLYJIVMACQNBPFEHRGUOW",
+            "additional_rotation": "Y"
+        },
+        "60": {
+            "letter_order": "RKNCDTHEASXGOZJFWBQUPVLYMI",
+            "additional_rotation": "Y"
+        },
+        "61": {
+            "letter_order": "ENIHPOWMZRFQDVGSYKTBLUXCJA",
+            "additional_rotation": "M"
+        },
+        "62": {
+            "letter_order": "EDGNXLVTUZJSOAFYPKHIBCMRQW",
+            "additional_rotation": "G"
+        },
+        "63": {
+            "letter_order": "IZSEUOKTQXAPFCGBDNJRVMHWYL",
+            "additional_rotation": "K"
+        },
+        "64": {
+            "letter_order": "QKODNFXZWBLVPITUJESACGRHMY",
+            "additional_rotation": "H"
+        },
+        "65": {
+            "letter_order": "LWDVANTORSIZMGPQBKCHEUXFYJ",
+            "additional_rotation": "B"
+        },
+        "66": {
+            "letter_order": "QUTPZCDYFAIBEGXNWHRVLOSMKJ",
+            "additional_rotation": "I"
+        },
+        "67": {
+            "letter_order": "OGLVPTKWBJMEXDARHYFINUSQZC",
+            "additional_rotation": "W"
+        },
+        "68": {
+            "letter_order": "XDOJKVLGHCNQIUETZWYFAPRMBS",
+            "additional_rotation": "F"
+        },
+        "69": {
+            "letter_order": "VHPYBRAQMCTWOLIUSJKZENDFXG",
+            "additional_rotation": "S"
+        },
+        "70": {
+            "letter_order": "JFZPIRGVKQLWESXHUOYNABTDMC",
+            "additional_rotation": "G"
+        },
+        "71": {
+            "letter_order": "UYFDOCLAXRZEHIKNTPMWGSJVQB",
+            "additional_rotation": "T"
+        },
+        "72": {
+            "letter_order": "OCDSWIMTYULNJFQKEBGVHXPZRA",
+            "additional_rotation": "J"
+        },
+        "73": {
+            "letter_order": "RPFSELTUDACHXWNKQGIZVBJMOY",
+            "additional_rotation": "D"
+        },
+        "74": {
+            "letter_order": "AOXMEVZGHTCYIWDNSRBKPQUFLJ",
+            "additional_rotation": "J"
+        },
+        "75": {
+            "letter_order": "JRBSWMPVACXYUDOQFEZKITLGHN",
+            "additional_rotation": "K"
+        },
+        "76": {
+            "letter_order": "VETBGXRWIANLHYUKMPDZCJFQSO",
+            "additional_rotation": "W"
+        },
+        "77": {
+            "letter_order": "MGISBEFHWAQDLOPJRTNYVXCZUK",
+            "additional_rotation": "C"
+        },
+        "78": {
+            "letter_order": "ITLXZRKNMHUYEBSVDAFWPGJOCQ",
+            "additional_rotation": "O"
+        },
+        "79": {
+            "letter_order": "GSPXFJVOYUBRIKCWHDMNZTALQE",
+            "additional_rotation": "T"
+        },
+        "80": {
+            "letter_order": "KEBWMNRSUAXZFQPJGICDVLHYTO",
+            "additional_rotation": "N"
+        },
+        "81": {
+            "letter_order": "TINHKPSFVJXMADUCYWOGLRBQZE",
+            "additional_rotation": "K"
+        },
+        "82": {
+            "letter_order": "USWKGOFLRJZBTDHPMYIQXAENCV",
+            "additional_rotation": "V"
+        },
+        "83": {
+            "letter_order": "TRGHDMQNVICFOXYBEZSAWLPUJK",
+            "additional_rotation": "S"
+        },
+        "84": {
+            "letter_order": "CYIXLSQVDGJUARPWEFNMTOZHBK",
+            "additional_rotation": "J"
+        },
+        "85": {
+            "letter_order": "QMDGWREBOFVCZJSXTLNAIYHKUP",
+            "additional_rotation": "K"
+        },
+        "86": {
+            "letter_order": "WYANPVJKTRFCDGBSXLOZHUMQEI",
+            "additional_rotation": "U"
+        },
+        "87": {
+            "letter_order": "PIDCZXFNQLJOVEUAHMSBYTKGRW",
+            "additional_rotation": "L"
+        },
+        "88": {
+            "letter_order": "FRXMHQTSYCLDZUBPEGNKIVAWJO",
+            "additional_rotation": "V"
+        },
+        "89": {
+            "letter_order": "QDVRUJGZAPHMTOICWEYKFSNBXL",
+            "additional_rotation": "R"
+        },
+        "90": {
+            "letter_order": "PKJFCZDUIWEXRHALBQNGMYOTVS",
+            "additional_rotation": "W"
+        },
+        "91": {
+            "letter_order": "PVLBYGNFQKARESITWDHMOCZXJU",
+            "additional_rotation": "L"
+        },
+        "92": {
+            "letter_order": "QXJCLSZKWANBDFIREHVOPUTMGY",
+            "additional_rotation": "F"
+        },
+        "93": {
+            "letter_order": "GMFZWEHTPALBRQVUYCOKJDINSX",
+            "additional_rotation": "X"
+        },
+        "94": {
+            "letter_order": "VZOIAWBTJENGCLUDSYMQRXPKHF",
+            "additional_rotation": "W"
+        },
+        "95": {
+            "letter_order": "UOCGQYFVKRLTDJXMZSIENBWPHA",
+            "additional_rotation": "F"
+        },
+        "96": {
+            "letter_order": "VYTZCGULWHBMEISKQPAOXNDJFR",
+            "additional_rotation": "M"
+        },
+        "97": {
+            "letter_order": "WBJGNQRZMDHSCEXLOAFYKVIPTU",
+            "additional_rotation": "I"
+        },
+        "98": {
+            "letter_order": "BFPLEIWKAYNRVCMHJSXDZGUTOQ",
+            "additional_rotation": "C"
+        },
+        "99": {
+            "letter_order": "LMRSNPWZUCFYVQAKOTGIXDJHBE",
+            "additional_rotation": "N"
+        },
+        "100": {
+            "letter_order": "ARLJUOZNEYXSIKMBVCPGTFDWQH",
+            "additional_rotation": "I"
+        }
+    }
+}

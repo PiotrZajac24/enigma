@@ -1,0 +1,29 @@
+{
+    "number_of_rotors": 5,
+    "first_rotor_swaps": "AK BZ CS EJ HN IV MQ OR\n",
+    "reverse_rotor_swaps": "AV BU CI DO EQ FG HK JL MZ NW PS RX TY\n",
+    "order": "2 4 1 5 3",
+    "initial_code": "OCYG%",
+    "rotors": {
+        "1": {
+            "letter_order": "NEFOATBLVSHJPQKWZCUMYIXDGR",
+            "additional_rotation": "M"
+        },
+        "2": {
+            "letter_order": "RYZEIVPDXKOQSGJHMUTLFNAWCB",
+            "additional_rotation": "G"
+        },
+        "3": {
+            "letter_order": "YPFOGJRSTWQLMVUCDEKHBNZXAI",
+            "additional_rotation": "V"
+        },
+        "4": {
+            "letter_order": "EIQMXKDBNWCOGTSLAZJPFRYUHV",
+            "additional_rotation": "M"
+        },
+        "5": {
+            "letter_order": "BHKRGICWTLUZAJEVXNQSDFMYPO",
+            "additional_rotation": "P"
+        }
+    }
+}

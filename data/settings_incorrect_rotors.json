@@ -1,0 +1,26 @@
+{
+    "number_of_rotors": 4,
+    "first_rotor_swaps": "DP FQ GS HJ IW MZ NY OV\n",
+    "reverse_rotor_swaps": "AH BY CE DO FZ GJ IR KQ LN MW PT SV UX\n",
+    "order": "3 1 5 2",
+    "initial_code": "CXVJ",
+    "rotors": {
+        "1": {
+            "letter_order": "YNAFEMQXRUSLJWOPIVGCBHZDTK",
+            "additional_rotation": "F"
+        },
+        "2": {
+            "letter_order": "GYUPOEVSWDXZMBKTHNIQLCFJAR",
+            "additional_rotation": "C"
+        },
+        "3": {
+            "letter_order": "MJYWRQFXILSVEKPUDAGCBNOZTH",
+            "additional_rotation": "O"
+        },
+        "5": {
+            "letter_order": "OLFDMIEHWCYBAZNKGSJXTVUQRP",
+            "additional_rotation": "Y"
+        }
+    },
+    "text": "AAA"
+}
